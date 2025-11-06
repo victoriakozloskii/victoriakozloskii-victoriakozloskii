@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Victoria!
+👋 Olá, eu sou a Victoria!
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Apaixonada por tecnologia, inovação e aprendizado contínuo  
@@ -19,7 +19,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoriakozloskii&show_icons=true&theme=tokyonight)
+![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriakozloskii&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriakozloskii&layout=compact&theme=tokyonight)
 
 ---
@@ -34,8 +34,8 @@
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-kozloski-2b1b1a243)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriakozloski2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-kozloski-2b1b1a243)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriakozloski2004@gmail.com)
 
 ---
 
